@@ -1,0 +1,24 @@
+1.	Git: Git là một hệ thống quản lý phiên bản phổ biến, cho phép bạn theo dõi các thay đổi trong mã nguồn của dự án và hợp nhất các phiên bản khác nhau.
+2.	GitHub: GitHub là một dịch vụ lưu trữ mã nguồn trực tuyến, cho phép bạn lưu trữ, quản lý và chia sẻ mã nguồn của dự án, cũng như làm việc cộng tác với các thành viên khác trong dự án.
+3.	SourceTree: công cụ giao diện để làm việc với GitHub
+
+
+
+SourceTree là một ứng dụng quản lý mã nguồn miễn phí được phát triển bởi Atlassian, giúp người dùng làm việc với hệ thống quản lý 
+phiên bản Git và Mercurial thông qua giao diện đồ họa (GUI) thay vì dòng lệnh (CLI). SourceTree hỗ trợ cả hệ điều hành Windows 
+và macOS, và đặc biệt hữu ích cho những người mới bắt đầu sử dụng Git hoặc muốn một cách dễ dàng hơn để quản lý kho mã nguồn.
+
+Các tính năng chính trong SourceTree
+=> Giao diện đồ họa dễ sử dụng cho phép quản lý các nhánh, commit, và thay đổi một cách trực quan.
+=> Hỗ trợ cả Git và Mercurial, giúp làm việc với nhiều loại kho mã nguồn khác nhau.
+=> Quản lý nhánh dễ dàng, bao gồm tạo, xóa, hợp nhất và chuyển đổi giữa các nhánh.
+=> Tích hợp với các kho lưu trữ từ xa như GitHub, Bitbucket, và GitLab.
+=> Xem lịch sử commit và so sánh các thay đổi giữa các commit hoặc các nhánh khác nhau.
+=> Chức năng staging cho phép thêm các thay đổi vào khu vực staging trước khi commit.
+=> Hỗ trợ các workflow phổ biến như Git Flow và Hg Flow.
+=> Công cụ giải quyết xung đột mã nguồn trực quan và dễ sử dụng.
+=> Tích hợp với terminal để sử dụng các lệnh Git hoặc Mercurial trực tiếp khi cần thiết.
+
+
+
+
